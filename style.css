@@ -1,0 +1,12 @@
+.navbar{
+    opacity: .8;
+    border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+    padding-top: 200px;
+}
+
+.navbar-nav .nav-link:hover{
+    opacity: .9;
+}
