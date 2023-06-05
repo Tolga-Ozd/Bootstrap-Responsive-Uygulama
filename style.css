@@ -12,3 +12,6 @@
     opacity: .9;
 }
 
+img:hover {
+    opacity:0.9 ;
+}
